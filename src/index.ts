@@ -11,7 +11,6 @@ export * from "./prim"
 export * from "./combinator"
 export * from "./error"
 export * from "./pos"
-export * from "./quantifier"
 export * from "./expr"
 
 export * from "./string"
